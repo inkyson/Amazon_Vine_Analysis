@@ -25,7 +25,7 @@ Utilizing PySpark, pgAdmin and Amazon Web Services, we performed ETL on the Amaz
 
     - **38.2%** of Vine reviews were 5-stars and **54.5%** of non-Vine reviews were 5-stars.
 
-        ![%_5star_reviews](Images/%_5star_reviews.png)
+        ![percentage_5star_reviews](Images/percentage_5star_reviews.png)
 
 ## **Summary**
 
